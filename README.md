@@ -1,5 +1,3 @@
-# КТО УДАЛИТ ТОТ ГЕЙ
-
 ![Блять](https://sun9-6.userapi.com/impf/xOjx5AbpNr3SpkEU0D5-n4ZsDVQpZU7i8pTpgg/pzx6qBenlYI.jpg?size=1920x501&quality=96&proxy=1&sign=1fd118f408e032e1600420d1294848cf&type=album)
 # Insult-Generator
 Генератор жестоких обзывательств, может вызывать приступы ржаки.
